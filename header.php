@@ -30,6 +30,9 @@ if ( $paged >= 2 || $page >= 2 )
 <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 </head>
 <body>
+//hook del witget creado en witget.php
+<?php if (!dynamic_sidebar('header-widget')) {} ?>
+
     <div id="page" class="container">
         <div class="row">
             <div id="header">
