@@ -1,0 +1,57 @@
+/*
+Theme Name: Mythme
+Theme URI: http://www.jose-aguilar.com/
+Author: Jose Aguilar
+Author URI: http://www.jose-aguilar.com/
+Description: Boopstrap Jose Aguilar Theme
+Version: 1.1
+Tags: light, gray, white, one-column, two-columns, right-sidebar, flexible-width, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+Text Domain: jose-aguilar
+ 
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+ 
+body {
+ 
+}
+ 
+#header {
+    background-color: #dadada;
+    min-height: 100px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+ 
+#header h3 {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+ 
+#sidebar_left, #sidebar_right {
+    background-color: #dadada;
+    min-height: 400px;
+    text-align: center;
+}
+ 
+#sidebar_left {
+    border-right: 5px solid #eee;
+}
+ 
+#sidebar_right {
+    border-left: 5px solid #eee;
+}
+ 
+#content {
+    background-color: #dadada;
+    min-height: 400px;
+    text-align: center;
+}
+ 
+#footer {
+    background-color: #dadada;
+    min-height: 80px;
+    margin-top: 10px;
+    text-align: center;
+}
