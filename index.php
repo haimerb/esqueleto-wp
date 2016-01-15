@@ -31,4 +31,4 @@
     <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('Sidebar Right') ) : endif; ?>
 </div>
 
-<?php get_footer(); ?>
+<?php get_footer(); ?>   

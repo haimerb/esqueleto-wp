@@ -3,4 +3,4 @@ jQuery(function(){
 });
 jQuery('.bxslider').bxSlider({
     responsive: true
-});
+});  

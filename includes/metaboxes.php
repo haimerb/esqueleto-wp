@@ -22,6 +22,6 @@ function ts_post_type_slider() {
     );
 }
 add_action('init', 'ts_post_type_slider');
-?>
+?>  
  
 

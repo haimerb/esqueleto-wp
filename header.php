@@ -40,4 +40,4 @@ if ( $paged >= 2 || $page >= 2 )
                 	<?php wp_nav_menu( array('menu' => 'Menu Principal' )); ?>
             </div>
         </div>
-        <div class="row">
+        <div class="row">  

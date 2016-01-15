@@ -10,4 +10,4 @@
 <div id="sidebar_right" class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
     <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('Sidebar Right') ) : endif; ?>
 </div>
-<?php get_footer(); ?>
+<?php get_footer(); ?>  
